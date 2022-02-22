@@ -1,0 +1,22 @@
+/* @author Jordan Passant */
+
+h2 {
+    color: crimson;
+}
+
+table {
+    font-family: arial, sans-serif;    
+    border: 1px solid black;
+    width: 100%;
+    border-color: #000000;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
